@@ -6,6 +6,11 @@
     },
     {
         "task": "PYTHON 공부",
+        "progress": "미완료",
+        "created_at": "2026-05-24 16:16:35"
+    },
+    {
+        "task": "sql 공부",
         "progress": "미완료"
     }
 ]
